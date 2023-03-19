@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.container {
+  display: flex;
+}
+#pgNum {
+  margin-left: 10px;
+}
